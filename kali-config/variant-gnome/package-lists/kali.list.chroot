@@ -15,4 +15,8 @@ kali-desktop-live
 kali-desktop-gnome
 
 # Custom packages
+jq
+git
 keepassx
+libreoffice-calc
+rsync
