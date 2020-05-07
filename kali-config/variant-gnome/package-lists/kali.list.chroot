@@ -17,6 +17,7 @@ kali-desktop-gnome
 # Custom packages
 jq
 git
+hexchat
 keepassx
 libreoffice-calc
 network-manager-openvpn-gnome
