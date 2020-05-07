@@ -17,6 +17,7 @@ kali-desktop-gnome
 # Custom packages
 deluge
 jq
+gimp
 git
 hexchat
 keepassx
