@@ -15,6 +15,7 @@ kali-desktop-live
 kali-desktop-gnome
 
 # Custom packages
+deluge
 jq
 git
 hexchat
