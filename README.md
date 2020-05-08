@@ -5,7 +5,7 @@ Have a look at https://docs.kali.org/development/live-build-a-custom-kali-iso fo
 ### For Kali build servers
 ```
 sudo apt update
-sudo apt install -y git live-build cdebootstrap devscripts
+sudo apt install -y curl git live-build cdebootstrap devscripts
 ```
 ### For debian-like build servers
 ```
