@@ -11,7 +11,7 @@ wget http://http.kali.org/pool/main/k/kali-archive-keyring/kali-archive-keyring_
 wget https://archive.kali.org/kali/pool/main/l/live-build/live-build_20191221_all.deb
 
 # # Install additional dependencies
-sudo apt update && sudo apt -y upgrade
+sudo apt update
 sudo apt install -y git live-build cdebootstrap debootstrap curl
 sudo dpkg -i kali-archive-keyring_2018.2_all.deb
 sudo dpkg -i live-build_20191221_all.deb
