@@ -15,3 +15,7 @@ sudo apt install -y curl git live-build cdebootstrap devscripts
 ```
 sudo ./build.sh --variant gnome --verbose
 ```
+Or, to target an x86 system, run:
+```
+sudo ./build.sh --arch i386 --variant xfce --verbose
+```
