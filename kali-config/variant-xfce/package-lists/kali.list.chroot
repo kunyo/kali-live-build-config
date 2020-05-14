@@ -25,6 +25,8 @@ libreoffice-calc
 libreoffice-impress
 mcabber
 network-manager-openvpn-gnome
+# netstat
+net-tools
 openvpn
 rsync
 thunderbird
