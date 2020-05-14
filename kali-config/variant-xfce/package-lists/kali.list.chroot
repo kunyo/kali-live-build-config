@@ -13,3 +13,21 @@ kali-linux-default
 
 # Graphical desktop
 kali-desktop-xfce
+
+deluge
+jq
+gimp
+git
+git-gui
+hexchat
+keepassx
+libreoffice-calc
+libreoffice-impress
+mcabber
+network-manager-openvpn-gnome
+openvpn
+rsync
+thunderbird
+unrar-free
+virtualbox
+zip
