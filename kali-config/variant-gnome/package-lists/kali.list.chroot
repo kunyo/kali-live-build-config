@@ -6,29 +6,10 @@ kali-desktop-live
 #<package>
 # You can customize the set of Kali metapackages (groups of tools) to install
 # For the complete list see: https://tools.kali.org/kali-metapackages
-# kali-linux-default
+kali-linux-default
 # kali-linux-large
 # kali-linux-everything
 # kali-tools-top10
 
 # Graphical desktop
 kali-desktop-gnome
-
-# Custom packages
-deluge
-jq
-gimp
-git
-git-gui
-hexchat
-keepassx
-libreoffice-calc
-libreoffice-impress
-mcabber
-network-manager-openvpn-gnome
-openvpn
-rsync
-thunderbird
-unrar-free
-virtualbox
-zip
