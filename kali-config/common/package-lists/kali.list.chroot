@@ -1,4 +1,5 @@
 deluge
+docker.io
 jq
 gimp
 git
@@ -11,6 +12,7 @@ network-manager-openvpn-gnome
 net-tools
 openvpn
 rsync
+snapd
 thunderbird
 unrar-free
 virtualbox
